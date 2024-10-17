@@ -6,7 +6,7 @@ We've provided hidden code comments to help guide you through the process and em
 
 
 
-Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
+Go to [Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/) to find more code-based tools and projects.<p>&nbsp;</p>
 
     
 ## Get started!
@@ -31,7 +31,7 @@ Go to [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/) to fin
 9. Test the URL in a browser. Magic, no? Actually, it's computer science.  
 
 
-Check out our other cool coding tools at [Open Fuego](https://open-fuego.github.io/Open-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
+Check out our other cool coding tools at [Pitt Fuego](https://pitt-fuego.github.io/Pitt-Fuego-Coding-Tools/).<p>&nbsp;</p><p>&nbsp;</p>
 
 
 
